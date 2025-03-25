@@ -6,6 +6,9 @@ This interactive Power BI dashboard provides a detailed analysis of salaries in 
 ✅ Role Comparison – Salary analysis by different roles such as Data Analyst, Data Scientist, Machine Learning Engineer, and more.  
 ✅ Trends Over Time – Salary evolution over recent years to identify growth patterns.  
 ✅ Key Factors – Impact of education level, certifications, and tools used on salary compensation.  
-✅ Geographic Analysis – Interactive maps displaying salary variations across regions and countries.  
+✅ Geographic Analysis – Interactive maps displaying salary variations across regions and countries. 
+
+![Alt text](DataScSalario.jpg)
+
 
 This dashboard is an ideal tool for industry professionals, companies, and aspiring data scientists looking to understand salary landscapes and make informed career decisions. 🚀
